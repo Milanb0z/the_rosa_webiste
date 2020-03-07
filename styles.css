@@ -634,7 +634,3 @@ footer {
         transform: translateY(-1rem);
     }
 }
-
-img:hover {
-    transform: translateY(-20px);
-}
